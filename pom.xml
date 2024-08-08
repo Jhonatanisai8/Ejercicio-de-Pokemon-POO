@@ -9,6 +9,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
-        <exec.mainClass>com.isai.clase20.video.juego.pokemon.Clase20VIDEOJUEGOPOKEMON</exec.mainClass>
+        <exec.mainClass>com.isai.clase20.video.juego.pokemon.Logica.Clase20VIDEOJUEGOPOKEMON</exec.mainClass>
     </properties>
 </project>
